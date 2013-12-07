@@ -4,7 +4,7 @@
   <groupId>net.oauth</groupId>
   <artifactId>oauth</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <name>OAuth</name>
   <description>Modified OAuth library for LTI java integrations.</description>
 	
