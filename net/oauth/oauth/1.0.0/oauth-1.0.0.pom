@@ -5,8 +5,8 @@
   <artifactId>oauth</artifactId>
   <packaging>jar</packaging>
   <version>1.0.0</version>
-  <name>oauth-java</name>
-  <description>OAuth Library for java integrations.</description>
+  <name>OAuth</name>
+  <description>Modified OAuth library for LTI java integrations.</description>
 	
   <organization>
       <name>Blindside Networks Inc(BN)</name>
