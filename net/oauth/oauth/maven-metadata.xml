@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>net.oauth</groupId>
-  <artifactId>oauth-java</artifactId>
+  <artifactId>oauth</artifactId>
   <version>1.0.0</version>
   <versioning>
     <versions>
       <version>1.0.0</version>
     </versions>
-    <lastUpdated>20131207183636</lastUpdated>
+    <lastUpdated>20131207184041</lastUpdated>
   </versioning>
 </metadata>
